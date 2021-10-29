@@ -69,7 +69,7 @@
       <div class="card-body">
         <h5 class="card-title">Event-1</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Know more</a>
+        <a href="#" class="btn btn-danger">Know more</a>
       </div>
     </div>
   </div>
@@ -78,7 +78,7 @@
       <div class="card-body">
         <h5 class="card-title">Event-2</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Know more</a>
+        <a href="#" class="btn btn-danger">Know more</a>
       </div>
     </div>
   </div>
@@ -87,7 +87,7 @@
       <div class="card-body">
         <h5 class="card-title">Event-3</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Know more</a>
+        <a href="#" class="btn btn-danger">Know more</a>
       </div>
     </div>
   </div>
@@ -99,7 +99,7 @@
       <div class="card-body">
         <h5 class="card-title">Event-4</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Know more</a>
+        <a href="#" class="btn btn-danger">Know more</a>
       </div>
     </div>
   </div>
@@ -108,7 +108,7 @@
       <div class="card-body">
         <h5 class="card-title">Event-5</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Know more</a>
+        <a href="#" class="btn btn-danger">Know more</a>
       </div>
     </div>
   </div>
@@ -117,7 +117,7 @@
       <div class="card-body">
         <h5 class="card-title">Event-6</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Know more</a>
+        <a href="#" class="btn btn-danger">Know more</a>
       </div>
     </div>
   </div>

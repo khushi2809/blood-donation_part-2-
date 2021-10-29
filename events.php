@@ -41,9 +41,9 @@
 		</ul>
 	</div>
 </nav>
-<nav>
+<nav > 
 	<div>
-		<h3 class="text-center">Events</h3>
+		<h3 class="text-center" style="color:rgba(209, 32, 47, 0.9);">Events</h3>
 	</div>
 	
 	<div class="nav nav-tabs" id="nav-tab" role="tablist">
@@ -52,7 +52,7 @@
 				<a class="nav-link active" href="attend.php">Attend</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="organise.php">Organise</a>
+				<a class="nav-link " href="organise.php">Organise</a>
 			</li>
 		</ul>
 	</div>
@@ -69,7 +69,7 @@
       <div class="card-body">
         <h5 class="card-title">Event-1</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Know more</a>
+        <a href="#" class="btn btn-danger">Know more</a>
       </div>
     </div>
   </div>
@@ -78,7 +78,7 @@
       <div class="card-body">
         <h5 class="card-title">Event-2</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Know more</a>
+        <a href="#" class="btn btn-danger">Know more</a>
       </div>
     </div>
   </div>
@@ -87,7 +87,7 @@
       <div class="card-body">
         <h5 class="card-title">Event-3</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Know more</a>
+        <a href="#" class="btn btn-danger">Know more</a>
       </div>
     </div>
   </div>
@@ -99,7 +99,7 @@
       <div class="card-body">
         <h5 class="card-title">Event-4</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Know more</a>
+        <a href="#" class="btn btn-danger">Know more</a>
       </div>
     </div>
   </div>
@@ -108,7 +108,7 @@
       <div class="card-body">
         <h5 class="card-title">Event-5</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Know more</a>
+        <a href="#" class="btn btn-danger">Know more</a>
       </div>
     </div>
   </div>
@@ -117,7 +117,7 @@
       <div class="card-body">
         <h5 class="card-title">Event-6</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Know more</a>
+        <a href="#" class="btn btn-danger">Know more</a>
       </div>
     </div>
   </div>
